@@ -1,9 +1,5 @@
-# SIGN.AI:  Sign Language Recognition and Translation <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
-<br />
-<p align="center">
-  <img src="docs/logo2.png" width="150">
-  <br />
-  <br /></p><hr>
+# SIGN.AI:  Sign Language Recognition and Translation</a>
+ <hr>
 Sign.AI is a Sign Language Recognition and Translation application built on top of MediaPipe Framework and it uses ComputerVision to Detect Hand Signs from a user's video capture device. SignAI is accurate and also has the capability to autocorrect words and phrase sentences using GingerIT. Sign.AI also provides Hindi Translation for predictions with the help of argostranslate.
 
 ### Features:
@@ -64,14 +60,3 @@ SignAI
 ├── LICENSE
 └── README.md
 ```
-## GUI:
-
-<p align="center">
-  <img src="docs/GUI.png" width="900">
-  <br />
-  <br /></p>
-
-# Contact
-If you have any questions, suggestions, or feedback, please feel free to contact me at kartik11721@gmail.com <br />
-Project Team : Kartik Kumar, Satya Sangram Pattnaik, Deepak, Narendra Tiwari <br /><br />
-<a href="https://www.buymeacoffee.com/kartik11721" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
